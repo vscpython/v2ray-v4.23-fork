@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Fork by @vscpython at Mar. 2025
+
 author=233boy
 # github=https://github.com/233boy/v2ray
 
